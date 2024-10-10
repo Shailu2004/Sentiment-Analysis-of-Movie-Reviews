@@ -2,4 +2,3 @@ pandas
 scikit-learn
 nltk
 streamlit
-pickle5
